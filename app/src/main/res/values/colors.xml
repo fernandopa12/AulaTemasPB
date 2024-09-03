@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cores primárias    -->
+    <color name="primaria">#ED145B</color>
+    <color name="primariaVariante">#ED145B</color>
+
+    <!--Cores secundárias-->
+    <color name="secundaria">#ED145B</color>
+    <color name="secundariaVariante">#ED145B</color>
+
+    <!-- Cor de fundo -->
+    <color name="corDeFundo">#FFFFFF</color>
+</resources>
